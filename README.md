@@ -3,4 +3,4 @@
 # Matricola: 1000010249
 # Nome Progetto: Find A Concert 
 
-# all'interno della cartella MHW2 si trova il progetto e anche la presentazione in power point
+# All'interno delle cartelle MHW* si trovano i progetti e anche la presentazione in power point, dei rispettivi HomeWork
